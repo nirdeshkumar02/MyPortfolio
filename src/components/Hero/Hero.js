@@ -15,7 +15,7 @@ const Hero = () => (
         <SectionText>
         I'm an aspiring Full-Stack Developer (MERN), Hybrid Mobile Apps Developer (React Native), whose aim to take development skills to the next level and build awesome applications.
         </SectionText>
-        <Button onClick={()=> window.location = "https://in.linkedin.com/in/nirdeshkumar02"}>Contact Me Here</Button>
+        <Button onClick={()=> window.location = "https://in.linkedin.com/in/nirdeshkumar02"}>Contact Me</Button>
       </LeftSection>
     </Section>
   </>
